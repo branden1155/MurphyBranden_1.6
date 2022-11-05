@@ -1,4 +1,4 @@
-baseURL = 'https://branden1155.github.io/MurphyBranden_1.6/'
+baseURL = 'https://branden1155.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hello-friend" 
